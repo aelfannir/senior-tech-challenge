@@ -1,3 +1,7 @@
+![CI/CD](https://github.com/aelfannir/seniro-tech-challenge/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/aelfannir/seniro-tech-challenge/branch/master/graph/badge.svg)](https://codecov.io/gh/aelfannir/seniro-tech-challenge/)
+![License](https://img.shields.io/github/license/aelfannir/seniro-tech-challenge)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
